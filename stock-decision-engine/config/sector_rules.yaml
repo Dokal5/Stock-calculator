@@ -1,0 +1,10 @@
+sector_rules:
+  default:
+    acceptable_debt_to_ebitda: 2.5
+    preferred_fcf_margin: 0.10
+  software:
+    acceptable_debt_to_ebitda: 3.0
+    preferred_fcf_margin: 0.15
+  industrials:
+    acceptable_debt_to_ebitda: 2.2
+    preferred_fcf_margin: 0.08

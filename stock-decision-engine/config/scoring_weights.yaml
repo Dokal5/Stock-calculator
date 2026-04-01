@@ -1,0 +1,5 @@
+weights:
+  valuation: 40
+  quality: 30
+  timing: 20
+  event_risk: 10
