@@ -1,0 +1,7 @@
+valuation_defaults:
+  discount_rate: 0.10
+  growth_bear: 0.02
+  growth_base: 0.06
+  growth_bull: 0.10
+  terminal_multiple: 15.0
+  horizon_years: 5
